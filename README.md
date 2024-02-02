@@ -2,7 +2,7 @@
 Hello! I'm a Computer Science student with a deep passion for technology. Growing up surrounded by a variety of devices, my interest in this field began at an early age. My family's influence further fueled my curiosity, inspiring me to pursue a career in Computer Science.
 
 
-## 🌐 Connect with me:
+# 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aseel-shaheen-15535a293) 
 
 # 💻 Tech Stack:
