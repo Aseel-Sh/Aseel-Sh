@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Aseel</h1>
+<h1 align="center">Hi 👋, I'm Aseel Shaheen</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
+
+- 🔭 I’m currently working on **a Chat App**
+
+- 🌱 I’m currently learning **MongoDB, Express, React.js, Node.js**
 
 - 👨‍💻 I’m currently looking for [a summer 2025 SWE internship](a summer 2025 SWE internship)
 
