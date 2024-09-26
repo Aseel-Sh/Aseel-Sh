@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MongoDB, Express, React.js, Node.js**
 
-- 👨‍💻 I’m currently looking for [a summer 2025 SWE internship](a summer 2025 SWE internship)
+- 👨‍💻 I’m currently looking for a summer 2025 SWE internship
 
 - 📫 How to reach me **aseel.sh52@gmail.com**
 
