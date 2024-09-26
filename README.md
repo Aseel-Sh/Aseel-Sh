@@ -2,7 +2,7 @@
 🔭 I’m currently working on a Chat App<br><br>🌱 I’m currently learning MongoDB, Express, React.js, Node.js<br><br>👨‍💻 I’m currently looking for a summer 2025 SWE internship<br><br>📫 How to reach me aseel.sh52@gmail.com
 
 
-## 🌐 Socials:
+# 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aseel-shaheen-15535a293/) 
 
 # 💻 Tech Stack:
