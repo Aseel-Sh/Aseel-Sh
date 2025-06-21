@@ -1,6 +1,6 @@
 # 💫 Hi I am Aseel Shaheen!
 
-🎓 Computer Science student at the University of North Texas (Class of 2026, 4.0 GPA)<br><br>💼 Software Engineer Intern @ GM Financial<br><br>🛠 Currently building a full-stack e-commerce platform using Angular, .NET, and PostgreSQL<br><br>📚 Learning about secure APIs, caching strategies, and scalable backend systems<br><br>🔍 Seeking full-time Software Engineering roles for 2026<br><br>📫 How to reach me aseel.sh52@gmail.com
+🎓 Computer Science student at the University of North Texas (Class of 2026, 4.0 GPA)<br><br>💼 Software Development Engineer Intern @ GM Financial<br><br>🛠 Currently building a full-stack e-commerce platform using Angular, .NET, and PostgreSQL<br><br>📚 Learning about secure APIs, caching strategies, and scalable backend systems<br><br>🔍 Seeking full-time Software Engineering roles for 2026<br><br>📫 How to reach me aseel.sh52@gmail.com
 
 # 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aseel-shaheen/) 
